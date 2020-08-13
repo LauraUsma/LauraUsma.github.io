@@ -384,7 +384,7 @@ h4 {
   text-decoration: none;
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1000px) {
   body {
     color: #060a24;
   }
